@@ -59,7 +59,7 @@ while (j !=6)
 	}
 	if (j!=1&&j!=2){
     
-    printf("!!! YOUR ARE OUT OF POGRAM!!!\n\t***TRY AGAIN ***");
+    printf("!!! YOUR ARE OUT OF POGRAM!!!\n\t PLEASE TRY AGAIN ");
     exit (0);
 }
     }
